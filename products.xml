@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="transform.xsl" type="text/xsl"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="product_schema.xsd">
+    <product>
+        <id>1</id>
+        <name>Google ChromeBook</name>
+        <price>599</price>
+        <description>One of the best and reliable laptop out there.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>GooglePixel 7</name>
+        <price>399</price>
+        <description>If you are an android guy must have hands on this.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Googlepods</name>
+        <price>199</price>
+        <description>The best earphones you'll ever wear.</description>
+    </product>
+</products>
